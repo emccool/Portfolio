@@ -51,7 +51,7 @@ a:hover {
 }
 
 .intro {
-  width: 40px;
+  width: 30px;
   margin: auto;
 }
 
@@ -79,7 +79,10 @@ a:hover {
   margin: 100px 0;
 }
 
-.bottom-container {}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
 
 .skill-row {
   width: 50%;
@@ -140,7 +143,7 @@ a:hover {
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: Arial;
+  font-family: "Monserrat", sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
